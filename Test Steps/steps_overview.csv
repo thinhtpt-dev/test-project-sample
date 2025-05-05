@@ -1,0 +1,20 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Navigate and Manage Test Cases in Project Overview,"Access the project overview and navigate through test cases. Review, update statuses, and manage manual editor steps. Verify navigation back to the home page.","Step 1: Navigate to project/*/home/overview with params (filter)
+Step 2: Click on div home
+Step 3: Click on div projectOverview
+Step 4: Click on link testCases -> Navigate to page 'project detail#project/*/*/*'
+Step 5: Click on div testCaseDetail
+Step 6: Click on link navigateToEnterKey -> Navigate to page 'project detail#project/*/*/*/*'
+Step 7: Click on div testCaseStatus
+Step 8: Click on item readyToReview
+Step 9: Click on div enterKeyFunctionality
+Step 10: Click on div manualEditorStepNumber
+Step 11: Click on button deleteManualEditor
+Step 12: Click on div stepsScriptsLinkagesRun
+Step 13: Click on div testCaseStatus
+Step 14: Click on item inactive
+Step 15: Click on div inactiveManualTranTynaLeGenerateSteps
+Step 16: Click on link home -> Navigate to page 'project overview#project/*/home/overview'
+Step 17: Click on list testCasesTestSuitesJourney -> Navigate to page ''
+Step 18: Take full page screenshot as checkpoint
+",High,NEW

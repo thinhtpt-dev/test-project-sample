@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to project/*/home/overview with params (filter)",
+        "step 2: Click on div home",
+        "step 3: Click on div projectOverview",
+        "step 4: Click on link testCases -> Navigate to page 'project detail#project/*/*/*'",
+        "step 5: Click on div testCaseDetail",
+        "step 6: Click on link navigateToEnterKey -> Navigate to page 'project detail#project/*/*/*/*'",
+        "step 7: Click on div testCaseStatus",
+        "step 8: Click on item readyToReview",
+        "step 9: Click on div enterKeyFunctionality",
+        "step 10: Click on div manualEditorStepNumber",
+        "step 11: Click on button deleteManualEditor",
+        "step 12: Click on div stepsScriptsLinkagesRun",
+        "step 13: Click on div testCaseStatus",
+        "step 14: Click on item inactive",
+        "step 15: Click on div inactiveManualTranTynaLeGenerateSteps",
+        "step 16: Click on link home -> Navigate to page 'project overview#project/*/home/overview'",
+        "step 17: Click on list testCasesTestSuitesJourney -> Navigate to page ''",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}
