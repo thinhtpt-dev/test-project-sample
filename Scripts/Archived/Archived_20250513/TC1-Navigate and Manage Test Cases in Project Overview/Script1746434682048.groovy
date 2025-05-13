@@ -22,7 +22,7 @@ TrueTestScripts.navigate("project/${project_id}/home/overview", ["filter": overv
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/home/overview?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_overview/div_home'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_overview/div_home'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 2-Click on div home.png')
 
@@ -30,7 +30,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 2-Click on div home.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/home/overview?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_overview/div_projectOverview'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_overview/div_projectOverview'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 3-Click on div projectOverview.png')
 
@@ -38,7 +38,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 3-Click on div projectOverview.
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/home/overview?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_overview/link_testCases'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_overview/link_testCases'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 4-Click on link testCases - Navigate to page project detailproject.png')
 
@@ -46,7 +46,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 4-Click on link testCases - Nav
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/div_testCaseDetail'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/div_testCaseDetail'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 5-Click on div testCaseDetail.png')
 
@@ -54,7 +54,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 5-Click on div testCaseDetail.p
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/link_navigateToEnterKey'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/link_navigateToEnterKey'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 6-Click on link navigateToEnterKey - Navigate to page project detailproject.png')
 
@@ -62,7 +62,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 6-Click on link navigateToEnter
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/div_testCaseStatus'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/div_testCaseStatus'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 7-Click on div testCaseStatus.png')
 
@@ -70,7 +70,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 7-Click on div testCaseStatus.p
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/item_readyToReview'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/item_readyToReview'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 8-Click on item readyToReview.png')
 
@@ -78,7 +78,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 8-Click on item readyToReview.p
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/div_enterKeyFunctionality'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/div_enterKeyFunctionality'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 9-Click on div enterKeyFunctionality.png')
 
@@ -86,7 +86,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 9-Click on div enterKeyFunction
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/div_manualEditorStepNumber'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/div_manualEditorStepNumber'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 10-Click on div manualEditorStepNumber.png')
 
@@ -94,7 +94,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 10-Click on div manualEditorSte
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/button_deleteManualEditor'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/button_deleteManualEditor'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 11-Click on button deleteManualEditor.png')
 
@@ -102,7 +102,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 11-Click on button deleteManual
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/div_stepsScriptsLinkagesRun'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/div_stepsScriptsLinkagesRun'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 12-Click on div stepsScriptsLinkagesRun.png')
 
@@ -110,7 +110,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 12-Click on div stepsScriptsLin
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/div_testCaseStatus'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/div_testCaseStatus'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 13-Click on div testCaseStatus.png')
 
@@ -118,7 +118,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 13-Click on div testCaseStatus.
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/item_inactive'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/item_inactive'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 14-Click on item inactive.png')
 
@@ -126,7 +126,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 14-Click on item inactive.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/div_inactiveManualTranTynaLeGenerateSteps'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/div_inactiveManualTranTynaLeGenerateSteps'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 15-Click on div inactiveManualTranTynaLeGenerateSteps.png')
 
@@ -134,7 +134,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 15-Click on div inactiveManualT
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/.*/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_detail/link_home'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_detail/link_home'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 16-Click on link home - Navigate to page project overviewprojecthomeoverview.png')
 
@@ -142,7 +142,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 16-Click on link home - Navigat
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + 'project/.*/home/overview?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_project_overview/list_testCasesTestSuitesJourney'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250513/Page_project_overview/list_testCasesTestSuitesJourney'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 17-Click on list testCasesTestSuitesJourney - Navigate to page .png')
 
